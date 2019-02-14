@@ -1,2 +1,2 @@
 # docker-wixtoolset
-Docker Image for
+Docker Image for Wix Toolset. Used to build MSI packages.
